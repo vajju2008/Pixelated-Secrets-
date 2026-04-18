@@ -1,0 +1,1 @@
+I learned how to reverse-engineer classical ciphers with Python, automate brute-force attacks, and programmatically isolate meaningful signals (like flags) from noise. This is the foundation of modern cryptanalysis workflows, where automation and filtering are critical.
